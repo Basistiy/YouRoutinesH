@@ -86,6 +86,14 @@ header .text-box p {
     text-transform: uppercase;
 }
 
+/* .text-box h2 {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 116%;
+    color: #45D09E;
+    text-transform: uppercase;
+} */
+
 .text-box p {
     font-weight: 500;
     font-size: 15px;
